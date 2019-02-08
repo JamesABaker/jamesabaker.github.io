@@ -3,10 +3,9 @@ layout: post
 title: “The Usefulness of Useless Knowledge” by Abraham Flexner, 1939.
 ---
 
+![Snapshot of the what biology is not](/images/Flexner1939.png)
+
 <br>
-
-<article>
-
 
 Nicola Davis of the Guardian opens her interview of Robbert Dijkraaf with <a href="https://soundcloud.com/guardianscienceweekly/cross-section-robbert">an antiquated recording from a Johns Hopkins review</a>.
 The voice we hear describes a thought-provoking anecdote.
@@ -61,5 +60,3 @@ Flexner, A.
 The Usefulness of Useless Knowledge.
 Harpers, (179), 544–552.
 Retrieved from <a href="https://library.ias.edu/files/UsefulnessHarpers.pdf">https://library.ias.edu/files/UsefulnessHarpers.pdf</a>
-
-</article>
