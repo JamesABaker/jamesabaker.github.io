@@ -18,4 +18,4 @@ If you want to give me some recommended reading, or want to get involved in some
 
 Email: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
 
-Twitter: [@jamesbaker_biol](twitter.com/jamesbaker_biol)
+Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)
