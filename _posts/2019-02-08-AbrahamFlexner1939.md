@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creativity in Science: “The Usefulness of Useless Knowledge” by Abraham Flexner, 1939.
+title: Creativity in Science. “The Usefulness of Useless Knowledge” by Abraham Flexner, 1939.
 ---
 
 ![Snapshot of the what biology is not](/images/Flexner1939.png)
