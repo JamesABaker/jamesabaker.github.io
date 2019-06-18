@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “The Usefulness of Useless Knowledge” by Abraham Flexner, 1939.
+title: Creativity in Science: “The Usefulness of Useless Knowledge” by Abraham Flexner, 1939.
 ---
 
 ![Snapshot of the what biology is not](/images/Flexner1939.png)
@@ -10,15 +10,15 @@ title: “The Usefulness of Useless Knowledge” by Abraham Flexner, 1939.
 Nicola Davis of the Guardian opens her interview of Robbert Dijkraaf with <a href="https://soundcloud.com/guardianscienceweekly/cross-section-robbert">an antiquated recording from a Johns Hopkins review</a>.
 The voice we hear describes a thought-provoking anecdote.
 
-<blockquote>I was showing a friend of mine through one of the laboratories at Johns Hopkins University, where he was talking with a research scientist.
+> I was showing a friend of mine through one of the laboratories at Johns Hopkins University, where he was talking with a research scientist.
+>
+> He said "This is all very wonderful.
+> But, what does it mean? What value has it? How can you use it?"
+>
+> The scientist said "I don't know.
+> I'm just looking for some answers."
 
-He said "This is all very wonderful.
-But, what does it mean? What value has it? How can you use it?"
-
-The scientist said "I don't know.
-I'm just looking for some answers."</blockquote>
-
-This exchange sets the stage perfectly to understand Abraham Flexner's passion for a spiritual &amp; intellectual approach to curiosity-driven discovery.
+This exchange sets the stage perfectly to understand Abraham Flexner's passion for a spiritual & intellectual approach to curiosity-driven discovery.
 In this essay, Flexner argues for rejecting the institutional constraints placed on academics.
 The essay is considered a classic and was <a href="http://www.jclinepi.com/article/0021-9681(55)90131-4/abstract">republished by Flexner in 1955</a> with some minor alterations and again, posthumously, <a href="http://press.princeton.edu/titles/10924.html">in 2017 along with a companion essay by Robbert Dijkgraaf</a>.
 
@@ -47,11 +47,7 @@ If we want great scientific progress, we must make sure talented, ambitious, and
 
 <!-- "The Usefulness of Useless Knowledge" is a 9 page must read for students of science.-->
 
-<blockquote>
-Much more am I pleading for the abolition of the word "use," and for the freeing of the human spirit.
-</blockquote>
-
-
+> Much more am I pleading for the abolition of the word "use," and for the freeing of the human spirit.
 
 <hr>
 
@@ -59,4 +55,4 @@ Flexner, A.
 (1939).
 The Usefulness of Useless Knowledge.
 Harpers, (179), 544–552.
-Retrieved from <a href="https://library.ias.edu/files/UsefulnessHarpers.pdf">https://library.ias.edu/files/UsefulnessHarpers.pdf</a>
+Retrieved from <a href="https://library.ias.edu/files/UsefulnessHarpers.pdf">https&#x3A;//library.ias.edu/files/UsefulnessHarpers.pdf</a>
