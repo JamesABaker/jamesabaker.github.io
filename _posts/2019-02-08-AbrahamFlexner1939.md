@@ -47,10 +47,12 @@ If we want great scientific progress, we must make sure talented, ambitious, and
 
 > Much more am I pleading for the abolition of the word "use," and for the freeing of the human spirit.
 
-<hr>
+* * *
+
 
 Flexner, A.
 (1939).
 The Usefulness of Useless Knowledge.
 Harpers, (179), 544–552.
+
 Retrieved from <a href="https://library.ias.edu/files/UsefulnessHarpers.pdf">https&#x3A;//library.ias.edu/files/UsefulnessHarpers.pdf</a>
