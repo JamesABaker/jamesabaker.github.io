@@ -5,8 +5,6 @@ title: Creativity in Science: “The Usefulness of Useless Knowledge” by Abrah
 
 ![Snapshot of the what biology is not](/images/Flexner1939.png)
 
-<br>
-
 Nicola Davis of the Guardian opens her interview of Robbert Dijkraaf with <a href="https://soundcloud.com/guardianscienceweekly/cross-section-robbert">an antiquated recording from a Johns Hopkins review</a>.
 The voice we hear describes a thought-provoking anecdote.
 
