@@ -10,7 +10,8 @@ I'm James. I use computers to explore biology.
 
 I'm a researcher in the Thornton Group at EMBL-EBI. I am a bioinformatician that examines protein sequences and structures. Currently I am working on the functional effects of variants on transmembrane proteins and how mutations may or may not lead to disease.
 
-Previously, I completed my Masters in Biochemistry at the University of Liverpool, and my PhD from the University of Manchester and Singapore A*STAR institute.
+Previously, I completed my Masters in Biochemistry at the University of Liverpool.
+My PhD was awarded by the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.
 
 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
 My area of expertise is predicting the function of cryptic protein signals using bioinformatic methods such as advanced statistics, biochemical and biophysical modelling, and large-scale data analysis.
