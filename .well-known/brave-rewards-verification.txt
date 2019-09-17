@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jamesabaker.github.io
+Token: 9f0c3b8b5a4c66a5139808a187228b902c8cad025da0b73539b05d6471f8a89a
