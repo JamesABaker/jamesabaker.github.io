@@ -30,4 +30,4 @@ Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)
 
 Github: [JamesABaker](https://github.com/JamesABaker)
 
-Telegram: @James_Baker
+Telegram: [@James_Baker](https://telegram.me/James_Baker)
