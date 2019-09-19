@@ -25,7 +25,10 @@ If you want to give me some recommended reading, have a correction, or want to g
 All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).
 
 ### Supporting the site
-The blog is currently supported by adverts. If you use and ad blocker, I accept [<img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips](https://www.youtube.com/watch?v=iJwLxeKxp3k) for Brave users. Follow [this link](https://brave.com/jam505) to find out more about the browser and download it to give it a try. If you do, I will get a $5 reward for sharing the link.
+The blog is currently supported by adverts.
+If you use and ad blocker, I accept <img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips from Brave users.
+Follow [this link to download Brave](https://brave.com/jam505) or to find out more about the browser.
+If you give it a try, I will get a $5 reward for sharing the link.
 
 
 # Contact details
