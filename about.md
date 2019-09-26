@@ -24,13 +24,6 @@ If you want to give me some recommended reading, have a correction, or want to g
 
 All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).
 
-### Supporting the site
-The blog is currently supported by adverts.
-If you use and ad blocker, I accept <img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips from Brave users.
-Follow [this link to download Brave](https://brave.com/jam505) or to find out more about the browser.
-If you give it a try, I will get a $5 reward for sharing the link.
-
-
 # Contact details
 
 If you have any sort of questions or comments, please feel free to get in touch.
@@ -42,3 +35,14 @@ Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)
 Github: [JamesABaker](https://github.com/JamesABaker)
 
 Telegram: [@James_Baker](https://telegram.me/James_Baker)
+
+
+---
+
+
+### Supporting the site
+
+The blog is currently supported by adverts.
+If you use and ad blocker, I accept <img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips from Brave users.
+Follow [this link to download Brave](https://brave.com/jam505) or to find out more about the browser.
+If you give it a try, I will receive a $5 reward for sharing the link.
