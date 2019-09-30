@@ -43,4 +43,4 @@ Telegram: [@James_Baker](https://telegram.me/James_Baker)
 ### Supporting the site
 
 The blog is currently unsupported by adverts.
-I accept <img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips from Brave users.
+I accept <img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips from [Brave](https://brave.com/jam505) users.
