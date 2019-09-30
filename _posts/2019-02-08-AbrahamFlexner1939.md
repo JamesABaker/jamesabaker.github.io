@@ -16,6 +16,8 @@ The voice we hear describes a thought-provoking anecdote.
 > The scientist said "I don't know.
 > I'm just looking for some answers."
 
+<!--more-->
+
 This exchange sets the stage perfectly to understand Abraham Flexner's passion for a spiritual & intellectual approach to curiosity-driven discovery.
 In this essay, Flexner argues for rejecting the institutional constraints placed on academics.
 The essay is considered a classic and was <a href="http://www.jclinepi.com/article/0021-9681(55)90131-4/abstract">republished by Flexner in 1955</a> with some minor alterations and again, posthumously, <a href="http://press.princeton.edu/titles/10924.html">in 2017 along with a companion essay by Robbert Dijkgraaf</a>.

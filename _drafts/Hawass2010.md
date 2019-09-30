@@ -8,3 +8,4 @@ Amenhotep III was a Pharoah of the 18th Dynasty
 <hr>
 Hawass, Z. et al. Ancestry and Pathology in King Tutankhamun’s Family. JAMA 303, 638 (2010).
 Retrieved from http://jcb.rupress.org/content/179/6/1091.full
+<!--more-->
