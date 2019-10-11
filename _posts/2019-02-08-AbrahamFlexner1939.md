@@ -5,7 +5,7 @@ title: Science Needs Room For Creativity. “The Usefulness of Useless Knowledge
 
 ![Snapshot of the what biology is not](/images/Flexner1939.png)
 
-Nicola Davis of the Guardian opens her interview of Robbert Dijkraaf with <a href="https://soundcloud.com/guardianscienceweekly/cross-section-robbert">an antiquated recording from a Johns Hopkins review</a>.
+Nicola Davis of the Guardian opens her interview of Robbert Dijkraaf with [an antiquated recording from a Johns Hopkins review](https://soundcloud.com/guardianscienceweekly/cross-section-robbert).
 The voice we hear describes a thought-provoking anecdote.
 
 > I was showing a friend of mine through one of the laboratories at Johns Hopkins University, where he was talking with a research scientist.
