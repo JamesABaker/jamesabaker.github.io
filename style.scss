@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $orange;
   }
 }
 
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $orange;
   cursor: pointer;
   font-family: $courierNeue;
   font-weight: 300;
@@ -226,7 +226,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $orange;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -246,10 +246,7 @@ nav {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 
-  img {
-    border-radius: 5px;
-    border: 3px solid black;
-  }
+
 }
 
 .posts > .post:last-child {
