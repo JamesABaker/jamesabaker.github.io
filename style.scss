@@ -107,15 +107,12 @@ strong, b {
 }
 
 img {
-  border-radius: 1px;
-  border-color: black;
   max-width: 100%;
   border:1px;
 }
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
-  
   max-width: none;
 }
 

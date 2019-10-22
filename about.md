@@ -8,7 +8,8 @@ I'm James. I use computers to explore biology.
 
 # More Information
 
-I am a bioinformatician that examines protein sequences and structures. Currently I am working on the functional effects of variants on transmembrane proteins and how mutations may or may not lead to disease.
+I am a bioinformatician that examines protein sequences and structures.
+Currently I am working on the functional effects of variants on transmembrane proteins and how mutations may or may not lead to disease.
  - Postdoctoral Fellow at EMBL-EBI.
  - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.
  - Masters in Biochemistry at the University of Liverpool.
@@ -42,5 +43,5 @@ Telegram: [@James_Baker](https://telegram.me/James_Baker)
 
 ### Supporting the site
 
-The blog is currently unsupported by adverts.
+This blog is unsupported by adverts.
 I accept <img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips from [Brave](https://brave.com/jam505) users.
