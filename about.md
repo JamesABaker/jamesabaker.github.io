@@ -17,7 +17,7 @@ Currently I am working on the functional effects of variants on transmembrane pr
 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
 Particularly, I have found myself studying transmembrane proteins in the context of structure and disease.
 
-## This site
+# This site
 
 Occasionally I will write a little bit of a summary or discussion here if I come across any impactful or interesting articles from academic journals.
 These are often not on my area of academic expertise, but they will usually have a focus on the life sciences.
@@ -40,8 +40,9 @@ Telegram: [@James_Baker](https://telegram.me/James_Baker)
 
 ---
 
-
+<!--
 ### Supporting the site
 
 This blog is unsupported by adverts.
 I accept <img src="/images/batcoin.svg" alt="drawing" width="30"/> BAT tips from [Brave](https://brave.com/jam505) users.
+-->
