@@ -6,36 +6,61 @@ permalink: /about/
 
 I'm James. I use computers to explore biology.
 
-# More Information
-
-I am a bioinformatician that examines protein sequences and structures.
-Currently I am working on the functional effects of variants on transmembrane proteins and how mutations may or may not lead to disease.
- - Postdoctoral Fellow at EMBL-EBI.
- - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.
- - Masters in Biochemistry at the University of Liverpool.
-
-My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
-Particularly, I have found myself studying transmembrane proteins in the context of structure and disease.
-
-# This site
-
-Occasionally I will write a little bit of a summary or discussion here if I come across any impactful or interesting articles from academic journals.
-These are often not on my area of academic expertise, but they will usually have a focus on the life sciences.
-If you want to give me some recommended reading, have a correction, or want to get involved in some way or share your thoughts with me, please don’t hesitate to contact me.
-
-All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).
-
-# Contact details
+## Contact details
 
 If you have any sort of questions or comments, please feel free to get in touch.
 
-Email: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
+Email:
+  - Personal: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
+  - Work: [bakerjames@ebi.ac.uk](mailto:bakerjames@ebi.ac.uk)
 
 Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)
 
 Github: [JamesABaker](https://github.com/JamesABaker)
 
 Telegram: [@James_Baker](https://telegram.me/James_Baker)
+
+## More Information
+
+### Academia
+
+I am a bioinformatician that examines protein sequences and structures.
+Currently I am working on the functional effects of variants on transmembrane proteins and how different mutations may or may not lead to disease.
+ - Postdoctoral Fellow at EMBL-EBI.
+ - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.
+ - Masters in Biochemistry at the University of Liverpool.
+ - Intern in the Computational Chemistry Department at the Chulalongkorn University in Bangkok.
+
+My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
+Particularly, I have found myself studying transmembrane proteins in the context of structure and disease.
+
+### Out of the lab
+
+ - I am an active [STEM ambassador](https://www.stem.org.uk/stem-ambassadors) that engages with the general public and schools regularly.
+ If you are interested in arranging a visit, don't hesitate to get in touch.
+
+ - You can see my Q&A posting history at [Biology.SE](https://biology.stackexchange.com/users/3553/james).
+My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
+
+
+<a href="https://biology.stackexchange.com/users/3553/james"><img src="https://biology.stackexchange.com/users/flair/3553.png" width="208" height="58" alt="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students" title="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students"></a>
+
+
+ - I attend and help to run the [cancer journal club](https://github.com/jurgjn/jc/blob/master/SCHEDULE.md) at the EBI.
+
+ - I occasionally tweet.
+
+<div style="border: 1px solid black;">
+<a  class="twitter-timeline"  data-height="500" href="https://twitter.com/JamesBaker_biol?ref_src=twsrc%5Etfw">Tweets by JamesBaker_biol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+### The journal club on this website
+
+Occasionally I will write a little bit of a summary or discussion here if I come across impactful or interesting articles from academic journals.
+These are often not on my area of academic expertise, but they will usually have a focus on the life sciences.
+If you want to give me some recommended reading, have a correction, share your thoughts with me, or get involved in some way please don’t hesitate to contact me.
+
+All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).
 
 
 ---

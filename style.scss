@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $lora;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $lora;
   color: $darkerGray;
   font-weight: bold;
 
@@ -108,7 +108,10 @@ strong, b {
 
 img {
   max-width: 100%;
-  border:1px;
+  border-style: solid;
+  border: 1px;
+  border-radius: 1px;
+  border-color: black;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -157,7 +160,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid black;
 
   @include mobile {
     text-align: center;
@@ -177,8 +180,6 @@ img {
   }
 
   img {
-    border-radius: 1px;
-    border-color: black;
     padding: 5px;
   }
 }
@@ -207,6 +208,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  font-family: $helveticaNeue;
 
   @include mobile {
     margin: 3px 0;
@@ -247,6 +249,8 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+
+
 }
 
 .posts > .post:last-child {
@@ -263,7 +267,6 @@ nav {
     font-size: 22px;
     font-style: italic;
   }
-
   .comments {
     margin-top: 10px;
   }

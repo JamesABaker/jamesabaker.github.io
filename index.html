@@ -3,36 +3,45 @@ layout: default
 ---
 
 <div>
-  
-  <p>I'm James. I use computers to explore biology.</p>
-
-  <p># More Information</p>
+  <h2> About </h2>
 
   <p>I am a bioinformatician that examines protein sequences and structures.
-    Currently I am working on the functional effects of variants on transmembrane proteins and how mutations may or may not lead to disease.</p>
+    Currently I am working on the functional effects of variants on transmembrane proteins and how different mutations may or may not lead to disease.</p>
 
   <ul>
-  <li><p>Postdoctoral Fellow at EMBL-EBI.</p></li>
+    <li>
+      <p>Postdoctoral Fellow at EMBL-EBI.</p>
+    </li>
 
-  <li><p>PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.</p></li>
+    <li>
+      <p>PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.</p>
+    </li>
 
-  <li><p>Masters in Biochemistry at the University of Liverpool.</p>
+    <li>
+      <p>Masters in Biochemistry at the University of Liverpool.</p>
+    </li>
+  </ul>
 
+  <p> <b> See my <a href="/about/">About</a> page for more information. </b></p>
 </div>
+
+<hr>
+
+<h2>Journal Club</h2>
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+  <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        <a href="{{ site.baseurl }}{{ post.url }}">
+    <div class="entry">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.excerpt  }}
-        </a>
-      </div>
+      </a>
+    </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+  </article>
   {% endfor %}
 </div>
