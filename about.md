@@ -6,23 +6,10 @@ permalink: /about/
 
 I'm James. I use computers to explore biology.
 
-## Contact details
-
-If you have any sort of questions or comments, please feel free to get in touch.
-
-Email:
-  - Personal: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
-  - Work: [bakerjames@ebi.ac.uk](mailto:bakerjames@ebi.ac.uk)
-
-Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)
-
-Github: [JamesABaker](https://github.com/JamesABaker)
-
-Telegram: [@James_Baker](https://telegram.me/James_Baker)
-
-## More Information
-
 ### Academia
+
+My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
+I have found myself studying transmembrane proteins in the context of structure and disease.
 
 I am a bioinformatician that examines protein sequences and structures.
 Currently I am working on the functional effects of variants on transmembrane proteins and how different mutations may or may not lead to disease.
@@ -31,13 +18,11 @@ Currently I am working on the functional effects of variants on transmembrane pr
  - Masters in Biochemistry at the University of Liverpool.
  - Intern in the Computational Chemistry Department at the Chulalongkorn University in Bangkok.
 
-My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
-Particularly, I have found myself studying transmembrane proteins in the context of structure and disease.
-
 ### Out of the lab
 
  - I am an active [STEM ambassador](https://www.stem.org.uk/stem-ambassadors) that engages with the general public and schools regularly.
  If you are interested in arranging a visit, don't hesitate to get in touch.
+    - I have been awarded a grant from the Enabling Fund from the Wellcome Trust to run a workshop in schools and public events for using video games to examine protein structures.
 
  - You can see my Q&A posting history at [Biology.SE](https://biology.stackexchange.com/users/3553/james).
 My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
@@ -58,7 +43,6 @@ My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
 
 Occasionally I will write a little bit of a summary or discussion here if I come across impactful or interesting articles from academic journals.
 These are often not on my area of academic expertise, but they will usually have a focus on the life sciences.
-If you want to give me some recommended reading, have a correction, share your thoughts with me, or get involved in some way please don’t hesitate to contact me.
 
 All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).
 
