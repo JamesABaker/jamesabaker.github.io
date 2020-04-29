@@ -33,11 +33,7 @@ My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
 
  - I attend and help to run the [cancer journal club](https://github.com/jurgjn/jc/blob/master/SCHEDULE.md) at the EBI.
 
- - I occasionally tweet.
-
-<div style="border: 1px solid black;">
-<a  class="twitter-timeline"  data-height="500" href="https://twitter.com/JamesBaker_biol?ref_src=twsrc%5Etfw">Tweets by JamesBaker_biol</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+ - I occasionally [tweet](https://twitter.com/JamesBaker_biol).
 
 ### The journal club on this website
 
