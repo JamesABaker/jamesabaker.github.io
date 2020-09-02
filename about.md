@@ -22,9 +22,10 @@ Currently I am working on the functional effects of variants on transmembrane pr
 
  - I am an active [STEM ambassador](https://www.stem.org.uk/stem-ambassadors) that engages with the general public and schools regularly.
  If you are interested in arranging a visit, don't hesitate to get in touch.
+	- Featured in the Sanger blog post on ["Inspiring prisoners and their families with genomics"](https://sangerinstitute.blog/2020/08/25/inspiring-prisoners-and-their-families-with-genomics/).
     - I have been awarded a grant from the Enabling Fund from the Wellcome Trust to run a workshop in schools and public events for using video games to examine protein structures.
 
- - You can see my Q&A posting history at [Biology.SE](https://biology.stackexchange.com/users/3553/james).
+ - You can see my Q&A posting history at [Biology Stack Exchange](https://biology.stackexchange.com/users/3553/james).
 My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
 
 
