@@ -5,12 +5,14 @@ title: DNA analysis of a god-king: “Ancestry and Pathology in King Tutankhamun
 
 ![A screenshot of the Hawass article showing the title, the full list of authors and part of the abstract.](/images/dna_godking/Hawass2010.png)
 Amenhotep III was a Pharoah of the 18th Dynasty
+
 <hr>
 Hawass, Z. et al. Ancestry and Pathology in King Tutankhamun’s Family. JAMA 303, 638 (2010).
 Retrieved from http://jcb.rupress.org/content/179/6/1091.full
 <!--more-->
 
 # Explain Amenhotep III the magnificent
+
 Wealthy
 Large armies
 Treatises with Nubians and north eastern
@@ -19,6 +21,7 @@ Rules 1386 to 1349 as the 9th Pharaoh of the 18th dynasty in the New Kingdom
 KV35 discovered in 1898 by Victor Loret. Not the original tomb.
 
 # Akhenaten the heretic King
+
 Previously known as Amenhotep IV
 Ruled 1370-1354
 Year 1: Worships only sun gods in Luxor
@@ -32,6 +35,7 @@ Feminine physical traits
 Only had daughters
 
 # Tutankhamun the boy king
+
 Discovered in 1922 by Howard Carter
 One of the greatest hoards ever discovered intact.
 Seven year search to find KV62
@@ -47,21 +51,22 @@ Wife is KV21A, Ankhesenamun
 Last of Pharoah of the dynasty
 
 # The mummies
+
 # KV62
+
 KV62 had a coffin referencing Tiye with a lock of hair
 Also had 2 small mummified fetuses.  Possibly the children of the Pharoah
 One of at least 7 months.
 One much smaller
 
-
-#The elder and younger lady
+\#The elder and younger lady
 KV35 (Amenhotep III site) was in the Valley of the kings (Thebes) by Victor Loret
 KV35EL  and KV35YL found along with a small boy in antechamber.
 Unidentified
 Damaged by tomb raiders
 KV35YL originally identified as male, later identified as female by Dr. Grafton Elliot Smith.
 
-#KV55
+\#KV55
 KV55 was discovered by Edward R. Ayrton for Theodore M. Davis in 1907 in the valley of the kings
 Desecrated tomb, cartouches chiseled off
 Poorly documented original excavation
@@ -71,13 +76,13 @@ Tiye was said to be buried with her husband at a different site
 Akhenaten was certainly buried in Armana in the tomb he was preparing
 
 # DNA fingerprinting
+
 15 mummies analysed, 4 of which were controls
 3 mummies from KV62, 2 of which fetuses
 KV35:
 Amenhotep III
 KV35YL
 KV35EL
-
 
 Microsatellite markers where n shows reiteration of repeat motifs (STRs) in non-coding regions of nuclear DNA
 
@@ -89,6 +94,7 @@ KV35YL is Tutankhamun’s mother
 Amenhotep III, KV55, and Tutankhamun show that they were descended respectively
 
 # MRI pathology of Akhenaten and Tutankhamun
+
 Radiology of Tutankhamun:
 Ruled out gynecomastia, craniosynostoses, Antley-Bixler syndrome or deficiency in cytochrome P450 oxidoreductase, Marfan syndrome, or related disorders
 Left foot shows bone necrosis and club foot (Freiburg-Köhler syndrome). Canes found in tomb.
@@ -114,7 +120,6 @@ Everyone else agrees KV55 is too young to be Akhenaten
 James G. Gamble, Stanford University Medical Center
 Symptoms are categorically not consistent with clubfoot diagnosis
 
-
 Irwin Braveman, Yale Medical School
 Generally inconsistent and unsubstantiated claims
 Skull shapes appear to be deformed by eye despite cephalic index within the normal range
@@ -126,16 +131,4 @@ Foot disorders explained by SCD, present in 9-22% of population
 Malaria is fatal to young children, not semi-immune adults of 18-19
 Gene testing could identify if HbS is SCD
 
-
-
-
-
-
-
-
-
-
-
-
-
-- Hawass is
+-   Hawass is

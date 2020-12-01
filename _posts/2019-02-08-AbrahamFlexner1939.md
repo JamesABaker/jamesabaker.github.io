@@ -51,7 +51,6 @@ If we want great scientific progress, we must make sure talented, ambitious, and
 
 * * *
 
-
 Flexner, A.
 (1939).
 The Usefulness of Useless Knowledge.
