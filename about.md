@@ -11,8 +11,8 @@ I'm James. I use computers to explore biology.
 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
 I have found myself studying transmembrane proteins in the context of structure and disease.
 
-I am a bioinformatician that examines protein sequences and structures.
-Currently I am working on the functional effects of variants on transmembrane proteins and how different mutations may or may not lead to disease.
+I am a bioinformatician that examines large biological and health datasets.
+ - Analyst at Joint Biosecurity Centre, part of NHS test and trace.
  - Postdoctoral Fellow at EMBL-EBI.
  - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.
  - Masters in Biochemistry at the University of Liverpool.
@@ -20,7 +20,7 @@ Currently I am working on the functional effects of variants on transmembrane pr
 
 ### Out of the lab
 
- - I am an active [STEM ambassador](https://www.stem.org.uk/stem-ambassadors) that engages with the general public and schools regularly.
+ - I regularly engage with the general public and schools about science.
  If you are interested in arranging a visit, don't hesitate to get in touch.
 	- Featured in the Sanger blog post on ["Inspiring prisoners and their families with genomics"](https://sangerinstitute.blog/2020/08/25/inspiring-prisoners-and-their-families-with-genomics/).
     - I have been awarded a grant from the Enabling Fund from the Wellcome Trust to run a workshop in schools and public events for using video games to examine protein structures.
@@ -30,16 +30,6 @@ My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
 
 
 <a href="https://biology.stackexchange.com/users/3553/james"><img src="https://biology.stackexchange.com/users/flair/3553.png" width="208" height="58" alt="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students" title="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students"></a>
-
-
- - I attend and help to run the [cancer journal club](https://github.com/jurgjn/jc/blob/master/SCHEDULE.md) at the EBI.
-
- - I occasionally [tweet](https://twitter.com/JamesBaker_biol).
-
-### The journal club on this website
-
-Occasionally I will write a little bit of a summary or discussion here if I come across impactful or interesting articles from academic journals.
-These are often not on my area of academic expertise, but they will usually have a focus on the life sciences.
 
 All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).
 
