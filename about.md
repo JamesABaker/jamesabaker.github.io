@@ -12,7 +12,7 @@ My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/c
 I have found myself studying transmembrane proteins in the context of structure and disease.
 
 I am a bioinformatician that examines large biological and health datasets.
- - Analyst at Joint Biosecurity Centre, part of NHS test and trace.
+ - Research Analyst at Joint Biosecurity Centre, part of NHS test and trace.
  - Postdoctoral Fellow at EMBL-EBI.
  - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.
  - Masters in Biochemistry at the University of Liverpool.
