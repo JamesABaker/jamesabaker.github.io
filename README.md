@@ -13,13 +13,14 @@ I have found myself studying transmembrane proteins in the context of structure 
 
 ## Job history
 
-I have worked as a bioinformatician and data scientist that examines large biological and health datasets.
- - Modelling Lead at the UK Health Security Agency (UKHSA) 
- - Senior Analyst at the Joint Biosecurity Centre, part of NHS test and trace.
- - Postdoctoral Fellow at EMBL-EBI.
- - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute.
- - Masters in Biochemistry at the University of Liverpool.
- - Intern in the Computational Chemistry Department at the Chulalongkorn University in Bangkok.
+I have worked as a bioinformatician and data scientist that examines large biological and health datasets
+ - **Data Science QA Lead** at the UK Health Security Agency (UKHSA) 
+ - **Modelling Lead** at the UK Health Security Agency (UKHSA) 
+ - **Senior Health Analyst** at the Joint Biosecurity Centre, part of NHS test and trace
+ - **Postdoctoral Fellow** at EMBL-EBI
+ - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute
+ - Masters in Biochemistry at the University of Liverpool
+ - Intern in the Computational Chemistry Department at the Chulalongkorn University in Bangkok
 
 ## Out of the lab
 
@@ -41,16 +42,16 @@ My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
 
 If you have any sort of questions or comments, please feel free to get in touch.
 
-Email:
-  - Personal: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
 
-Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)
+- Email: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
+
+~Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)~
 
 GitHub: [JamesABaker](https://github.com/JamesABaker)
 
 Telegram: [@James_Baker](https://telegram.me/James_Baker)
 
-Mastadon: [@james@social.linux.pizza](https://social.linux.pizza/@james)
+Mastodon: [@james@social.linux.pizza](https://social.linux.pizza/@james)
 
 ## About
 
