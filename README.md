@@ -35,7 +35,6 @@ My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
 
 <!--All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).-->
 
-
 ---
 
 ## Contact details
@@ -44,7 +43,6 @@ If you have any sort of questions or comments, please feel free to get in touch.
 
 Email:
   - Personal: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
-  - Work: [james.baker@ukhsa.gov.uk](mailto:james.baker@ukhsa.gov.uk)
 
 Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)
 
