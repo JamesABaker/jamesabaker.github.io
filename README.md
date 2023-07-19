@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /
 ---
 
@@ -11,7 +11,7 @@ I'm James. I use computers to explore biology. 💻🧬 He/Him
 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
 I have found myself studying transmembrane proteins in the context of structure and disease.
 
-## Job history
+## 👨‍💻 Job history
 
 I have worked as a bioinformatician and data scientist that examines large biological and health datasets
  - **Data Science QA Lead** at the UK Health Security Agency (UKHSA) 
@@ -22,7 +22,7 @@ I have worked as a bioinformatician and data scientist that examines large biolo
  - Masters in Biochemistry at the University of Liverpool
  - Intern in the Computational Chemistry Department at the Chulalongkorn University in Bangkok
 
-## Out of the lab
+## 🧪 Out of the lab
 
  - I have engaged with the general public and schools about science.
 	- Featured in the Sanger blog post on ["Inspiring prisoners and their families with genomics"](https://sangerinstitute.blog/2020/08/25/inspiring-prisoners-and-their-families-with-genomics/).
@@ -43,15 +43,13 @@ My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
 If you have any sort of questions or comments, please feel free to get in touch.
 
 
-- Email: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
+- ✉️ Email: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
 
-~Twitter: [@jamesbaker_biol](https://twitter.com/jamesbaker_biol)~
+- 💻 GitHub: [JamesABaker](https://github.com/JamesABaker)
 
-GitHub: [JamesABaker](https://github.com/JamesABaker)
+- 📞 Telegram: [@James_Baker](https://telegram.me/James_Baker)
 
-Telegram: [@James_Baker](https://telegram.me/James_Baker)
-
-Mastodon: [@james@social.linux.pizza](https://social.linux.pizza/@james)
+- 🐘 Mastodon: [@james@social.linux.pizza](https://social.linux.pizza/@james)
 
 ## About
 
