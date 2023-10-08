@@ -47,10 +47,6 @@ If you have any sort of questions or comments, please feel free to get in touch.
 
 - 💻 GitHub: [JamesABaker](https://github.com/JamesABaker)
 
-- 📞 Telegram: [@James_Baker](https://telegram.me/James_Baker)
-
-- 🐘 Mastodon: [@james@social.linux.pizza](https://social.linux.pizza/@james)
-
 ## About
 
 This is part of my ongoing quest to make a personal website that is easily maintainable.
