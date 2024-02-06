@@ -35,7 +35,6 @@ I have found myself studying transmembrane proteins in the context of structure 
 
 <a href="https://biology.stackexchange.com/users/3553/james"><img src="https://biology.stackexchange.com/users/flair/3553.png" width="208" height="58" alt="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students" title="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students"></a>
 
-<!--All the code, posts, and draft posts are available on ​[GitHub](https://github.com/JamesABaker/jamesabaker.github.io).-->
 
 ---
 
@@ -52,4 +51,4 @@ If you have any sort of questions or comments, please feel free to get in touch.
 
 This is part of my ongoing quest to make a personal website that is easily maintainable.
 
-The site can be accessed here: [https://jamesabaker.github.io](https://jamesabaker.github.io) and is [open sourced](https://github.com/JamesABaker/jamesabaker.github.io).
+The site is [open sourced](https://github.com/JamesABaker/jamesabaker.github.io).
