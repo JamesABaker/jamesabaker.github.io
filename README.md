@@ -6,31 +6,32 @@ permalink: /
 
 # James A. Baker, PhD
 
-I'm James. I use computers to explore biology. 💻🧬 He/Him
+I'm James. I use computers to explore data. 💻📊 He/Him
 
 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
-I have found myself studying transmembrane proteins in the context of structure and disease.
+I have found myself studying transmembrane proteins in the context of structure and disease, and then moving to more technology-focused roles.
 
-## 👨‍💻 Job history
+## 👨‍💻 Work history
 
-I have worked as a bioinformatician and data scientist that examines large biological and health datasets
- - **Data Science QA Lead** at the UK Health Security Agency (UKHSA) 
- - **Modelling Lead** at the UK Health Security Agency (UKHSA) 
- - **Senior Health Analyst** at the Joint Biosecurity Centre, part of NHS test and trace
- - **Postdoctoral Fellow** at EMBL-EBI
- - PhD at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute
- - Masters in Biochemistry at the University of Liverpool
- - Intern in the Computational Chemistry Department at the Chulalongkorn University in Bangkok
+ - 📑 **Lead Data Engineer** at the Ministry of Justice (MoJ)
+ - 📊 **Data Science QA Lead** at the UK Health Security Agency (UKHSA) 
+ - 📈 **Modelling QA Lead** at the UK Health Security Agency (UKHSA)
+ - 🏥 **Senior Health Analyst** at the Joint Biosecurity Centre, part of NHS test and trace
+ - 🧪 **Postdoctoral Fellow** at the European Bioinformatics Institute (EMBL-EBI)
+ - 🇹🇭 **Intern** in the Computational Chemistry Department at the Chulalongkorn University in Bangkok 
+
+## 🎓 Education
+
+ - 🎓🇸🇬 **PhD** at the University of Manchester in conjunction with the Singapore A*STAR Bioinformatics Institute 
+ - 🎓 **Masters** in Biochemistry at the University of Liverpool
+
 
 ## 🧪 Out of the lab
 
- - I have engaged with the general public and schools about science.
-	- Featured in the Sanger blog post on ["Inspiring prisoners and their families with genomics"](https://sangerinstitute.blog/2020/08/25/inspiring-prisoners-and-their-families-with-genomics/).
-    - I was awarded a grant from the Enabling Fund from the Wellcome Trust to run a workshop in schools and public events for using video games to examine protein structures.
+- Featured in the Sanger blog post on ["Inspiring prisoners and their families with genomics"](https://sangerinstitute.blog/2020/08/25/inspiring-prisoners-and-their-families-with-genomics/).
+- Awarded a grant from the Enabling Fund from the Wellcome Trust to run a workshop in schools and public events for using video games to examine protein structures.
 
- - You can see my Q&A posting history at [Biology Stack Exchange](https://biology.stackexchange.com/users/3553/james).
-My top tags are biochemistry, bioinformatics, proteins, and the cell membrane.
-
+ - SE Q&A posting history at [Biology Stack Exchange](https://biology.stackexchange.com/users/3553/james).
 
 <a href="https://biology.stackexchange.com/users/3553/james"><img src="https://biology.stackexchange.com/users/flair/3553.png" width="208" height="58" alt="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students" title="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students"></a>
 
