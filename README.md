@@ -28,10 +28,10 @@ I have found myself studying transmembrane proteins in the context of structure 
 
 ## 🧪 Out of the lab
 
+- [Code Club Volunteer](https://codeclub.org/en/) for the Raspberry Pi Foundation.
 - Featured in the Sanger blog post on ["Inspiring prisoners and their families with genomics"](https://sangerinstitute.blog/2020/08/25/inspiring-prisoners-and-their-families-with-genomics/).
 - Awarded a grant from the Enabling Fund from the Wellcome Trust to run a workshop in schools and public events for using video games to examine protein structures.
-
- - SE Q&A posting history at [Biology Stack Exchange](https://biology.stackexchange.com/users/3553/james).
+- SE Q&A posting history at [Biology Stack Exchange](https://biology.stackexchange.com/users/3553/james).
 
 <a href="https://biology.stackexchange.com/users/3553/james"><img src="https://biology.stackexchange.com/users/flair/3553.png" width="208" height="58" alt="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students" title="profile for James at Biology Stack Exchange, Q&amp;A for biology researchers, academics, and students"></a>
 
