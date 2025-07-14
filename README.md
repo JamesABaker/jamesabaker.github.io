@@ -40,12 +40,6 @@ I'm James. I use computers to explore data. 💻📊 He/Him
 
 If you have any sort of questions or comments, please feel free to get in touch.
 
-
-- ✉️ Email: [baker.james.jb@gmail.com](mailto:baker.james.jb@gmail.com)
+- ✉️ Email: [james.a.baker@protonmail.com](mailto:james.a.baker@protonmail.com)
 
 - 💻 GitHub: [JamesABaker](https://github.com/JamesABaker)
-
-## About
-
-This is part of my ongoing quest to make a personal website that is easily maintainable.
-
