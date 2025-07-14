@@ -8,9 +8,6 @@ permalink: /
 
 I'm James. I use computers to explore data. 💻📊 He/Him
 
-My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
-I have found myself studying transmembrane proteins in the context of structure and disease, and then moving to more technology-focused roles.
-
 ## 👨‍💻 Work history
 
  - ⚙️ **Lead Data Engineer** at the Ministry of Justice (MoJ)
@@ -18,7 +15,8 @@ I have found myself studying transmembrane proteins in the context of structure 
  - 📈 **Modelling QA Lead** at the UK Health Security Agency (UKHSA)
  - 🏥 **Senior Health Analyst** at the Joint Biosecurity Centre, part of NHS test and trace
  - 🧪 **Postdoctoral Fellow** at the European Bioinformatics Institute (EMBL-EBI)
- - 🇹🇭 **Intern** in the Computational Chemistry Department at the Chulalongkorn University in Bangkok 
+ - 🇹🇭 **Intern** in the Computational Chemistry Department at the Chulalongkorn University in Bangkok
+ - 📖 My publications can be viewed on [Google Scholar](https://scholar.google.co.uk/citations?user=hbR8DVYAAAAJ&hl=en).
 
 ## 🎓 Education
 
